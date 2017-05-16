@@ -8,4 +8,4 @@
 
 >Project 4: Translation Project
 
->Project 5: Generative Adversarial Network (GAN) Project
+>Project 5: Generate Faces
